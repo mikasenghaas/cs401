@@ -4,16 +4,15 @@ In this exercise session (1.1) we explore the fundamental features of [Pandas](h
 
 ---
 
-### 1. Intro to Pandas
+## 1. Intro to Pandas
 
 1. Intro to Pandas I.ipynb: importing data, basic operations, cleaning.
 2. Intro to Pandas II.ipynb: more advanced data manipulation and transformation.
 
 * In case you cannot load the files, try updating xldr: "pip install xlrd==2.0.1"
 
-### 2. Execises
+## 2. Execises
 
 Happiness.ipynb: Execises to practice you skills. Solutions will be released after the lab session.
-
 
 ### Credits to: [Chris Fonnesbeck](https://github.com/fonnesbeck), [Michele Catasta](https://github.com/pirroh), [Panayiotis Smeros](https://github.com/psmeros), and [Tiziano Piccardi](https://piccardi.me/)
